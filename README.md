@@ -1,12 +1,13 @@
 # Netflix-Data-Analysis
 This project focuses on analyzing a Netflix movie dataset to uncover meaningful insights through data preprocessing, exploration, and visualization. The main goal was to understand content trends, genre popularity, and audience preferences on the platform.
-Objectives
+
+# Objectives
 Clean and preprocess raw Netflix dataset for accurate analysis.
 Identify patterns in genres, release years, and ratings.
 Categorize movies based on popularity (vote averages).
 Use data visualization to present insights effectively.
 
-Problems Addressed
+# Problems Addressed
 Q1)Which genre is most frequent on Netflix?
 Q2)How has the trend of movie releases evolved over the years?
 Q3)What does the distribution of ratings (vote averages) reveal about audience preferences?
